@@ -3,6 +3,7 @@
 - Estou procurando novas oportunidades na área de desenvolvimento web;
 - Tenho conhecimentos em:
     - Javascript
+    - Node Js
     - HTML 5 + CSS 3 + Bootstrap
     - Java
     - ADVPL + Arquitetura TOTVs Protheus
