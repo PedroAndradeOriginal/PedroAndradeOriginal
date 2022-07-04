@@ -10,7 +10,7 @@
     - SQL
     - Figma + Canva + Wordpress
     - Trello e Git
-- Também estou aprendendo React e TypeScript 🤯;
+- Também estou aprendendo Next.Js, React.Js e TypeScript 🤯;
 ## 
 <div align="center">
   <a href="https://github.com/PedroAndradeOriginal">
