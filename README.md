@@ -13,10 +13,13 @@ Tenho conhecimentos de aproximadamente 2 anos em:
  - Figma + Canva + Wordpress + Wix
 
 Algumas experiências com programação e desenvolvimento web:
+
 ALEATORIANDO - DESENVOLVEDOR / IDEALIZADOR
 Idealizador e desenvolvedor do projeto "Aleatoriando" atuando nas áreas operacionais e administrativas.
+
 CLUBE DO JUNINHO - DESENVOLVEDOR / IDEALIZADOR
 Idealizador e desenvolvedor do projeto Clube do Juninho, atuando nas áreas operacionais e administrativas.
+
 FREELANCER - DESENVOLVEDOR WEB
 Criação de landing pages, sites estáticos e lojas virtuais com as
 tecnologias mais utilizadas da atualidade.
