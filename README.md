@@ -3,14 +3,14 @@
 Sou um profissional consolidado em outra área, e agora estou buscando a transição para a área de Desenvolvimento web ou similares. Sou muito determinado, eficiente, possuo senso de urgência, sou ágil e organizado.
 
 Tenho conhecimentos de aproximadamente 2 anos em:
--ADVPL + Arquitetura TOTVs Protheus
--Javascript Vanilla, React-Js, Typescript
--HTML 5, CSS 3, Bootstrap
--Node.Js, Java, Spring, API Rest
--SQL
--Github e Git
--Metodologias ágeis (Kanban)
--Figma + Canva + Wordpress + Wix
+ - ADVPL + Arquitetura TOTVs Protheus;
+ - Javascript Vanilla, React-Js, Typescript;
+ - HTML 5, CSS 3, Bootstrap;
+ - Node.Js, Java, Spring, API Rest;
+ - SQL;
+ - Github e Git;
+ - Metodologias ágeis (Kanban);
+ - Figma + Canva + Wordpress + Wix
 
 Algumas experiências com programação e desenvolvimento web:
 ALEATORIANDO - DESENVOLVEDOR / IDEALIZADOR
