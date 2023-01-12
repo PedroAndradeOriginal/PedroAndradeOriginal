@@ -27,7 +27,7 @@ tecnologias mais utilizadas da atualidade.
 ## 
 <div align="center">
   <a href="https://github.com/PedroAndradeOriginal">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroAndradeOriginal&show_icons=true&theme=radical
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroAndradeOriginal&show_icons=true&theme=radical"
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroandradeoriginal&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br>   
