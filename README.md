@@ -1,8 +1,8 @@
 # 👋 Olá, Mundo! Eu sou Pedro Andrade
 
-🎯 Engenheiro com foco em Planejamento, Controle e Sistemas aplicados à Engenharia  
+🎯 Engenheiro de Software com foco em Planejamento, Controle e Sistemas aplicados à Engenharia  
 💻 Desenvolvedor de ferramentas para automação de processos técnicos  
-📊 Especialista em conversão físico-financeira e estruturação de dados  
+📊 Especialista em estruturação de dados  
 
 ---
 
