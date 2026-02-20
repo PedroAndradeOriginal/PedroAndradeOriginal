@@ -29,6 +29,7 @@ Tenho foco em transformar processos manuais e complexos em sistemas automatizado
 - CSS3
 - Bootstrap
 - SheetJS (Excel parsing)
+- Python + bibliotecas
 - Git
 - GitHub
 - GitHub Pages
@@ -53,8 +54,6 @@ Tenho foco em transformar processos manuais e complexos em sistemas automatizado
 ---
 
 ### 🗂 Gestão & Produtividade
-- Trello
-- Notion
 - Metodologias Ágeis (Scrum / Kanban)
 - Gestão de contratos
 - Controle documental
