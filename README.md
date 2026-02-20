@@ -1,28 +1,99 @@
-## Olá, mundo! 👋👋👋
+# 👋 Olá, Mundo! Eu sou Pedro Andrade
 
-Sou um profissional consolidado em outra área, e agora estou buscando a transição para a área de Desenvolvimento web ou similares. Sou muito determinado, eficiente, possuo senso de urgência, sou ágil e organizado.
+🎯 Engenheiro com foco em Planejamento, Controle e Sistemas aplicados à Engenharia  
+💻 Desenvolvedor de ferramentas para automação de processos técnicos  
+📊 Especialista em conversão físico-financeira e estruturação de dados  
 
-Tenho conhecimentos de aproximadamente 2 anos em:
- - ADVPL + Arquitetura TOTVs Protheus;
- - Javascript Vanilla, React-Js, Typescript;
- - HTML 5, CSS 3, Bootstrap;
- - Node.Js, Java, Spring, API Rest;
- - SQL;
- - Github e Git;
- - Metodologias ágeis (Kanban);
- - Figma + Canva + Wordpress + Wix
+---
 
-Algumas experiências com programação e desenvolvimento web:
+## 🚀 Sobre mim
 
-ALEATORIANDO - DESENVOLVEDOR / IDEALIZADOR
-Idealizador e desenvolvedor do projeto "Aleatoriando" atuando nas áreas operacionais e administrativas.
+Sou profissional da área de Engenharia com forte atuação em:
 
-CLUBE DO JUNINHO - DESENVOLVEDOR / IDEALIZADOR
-Idealizador e desenvolvedor do projeto Clube do Juninho, atuando nas áreas operacionais e administrativas.
+- Planejamento e controle de obras
+- Estruturação de EAP
+- Conversão físico-financeira
+- Análise de cronogramas
+- Automação de planilhas e processos
+- Desenvolvimento de ferramentas web para engenharia
 
-FREELANCER - DESENVOLVEDOR WEB
-Criação de landing pages, sites estáticos e lojas virtuais com as
-tecnologias mais utilizadas da atualidade.
+Tenho foco em transformar processos manuais e complexos em sistemas automatizados, confiáveis e escaláveis.
+
+---
+
+## 🛠 Tecnologias & Ferramentas
+
+### 💻 Desenvolvimento
+- JavaScript (Vanilla)
+- HTML5
+- CSS3
+- Bootstrap
+- SheetJS (Excel parsing)
+- Git
+- GitHub
+- GitHub Pages
+- Node.js (básico)
+- Supabase
+- APIs REST
+
+---
+
+### 📊 Engenharia & Planejamento
+- MS Project
+- Primavera P6
+- Excel Avançado
+- Power Query
+- Power BI
+- Estrutura Analítica de Projeto (EAP)
+- Curva S
+- Análise físico-financeira
+- Orçamentação
+- Controle de produtividade
+
+---
+
+### 🗂 Gestão & Produtividade
+- Trello
+- Notion
+- Metodologias Ágeis (Scrum / Kanban)
+- Gestão de contratos
+- Controle documental
+- Análise de riscos
+- Indicadores de desempenho (KPIs)
+
+---
+
+Sistema web para:
+
+- Upload de cronograma físico
+- Conversão automática para percentual
+- Correspondência com Matriz EAP
+- Geração de projeção financeira
+- Tratamento automático de horas
+- Macros
+
+Processamento 100% client-side (no navegador).
+
+---
+
+## 📈 Objetivo Profissional
+
+Integrar Engenharia e Tecnologia para:
+
+- Reduzir erros operacionais
+- Automatizar análises técnicas
+- Criar sistemas internos de apoio à decisão
+- Elevar o nível de controle financeiro em projetos
+
+---
+
+## 📫 Contato
+
+Você pode me encontrar aqui no GitHub ou conectar-se via LinkedIn.
+
+---
+
+> Engenharia + Dados + Automação = Controle real.
 
 ## 
 <div align="center">
