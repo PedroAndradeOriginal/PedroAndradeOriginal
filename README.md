@@ -1,7 +1,7 @@
 # 👋 Olá, Mundo! Eu sou Pedro Andrade
 
 🎯 Engenheiro de Software focado em Planejamento & Controle de Projetos  
-💻 Desenvolvedor de ferramentas para Engenharia  
+💻 Desenvolvedor de ferramentas para Engenharia e gestão de Ferramentas computacionais 
 📊 Especialista em estruturação de dados e automação de processos  
 
 ---
@@ -15,9 +15,9 @@ Transformo processos manuais e complexos em sistemas automatizados, confiáveis 
 Foco principal:
 
 - Planejamento e controle de obras  
-- Estruturação de EAP  
-- Conversão físico-financeira  
-- Automação de planilhas  
+- Estruturação
+- Controle físico-financeira  
+- Automação de planilhas e dashboards  
 - Modelagem de dados aplicada a projetos  
 - Desenvolvimento de sistemas web técnicos  
 
@@ -57,32 +57,19 @@ Especialização em estruturação e governança de ferramentas digitais para pr
 - HTML5 / CSS3
 - Bootstrap
 - Python
-- Node.js (básico)
+- Node.js
 - Supabase
 - APIs REST
 - Git / GitHub
 
 ### 📊 Engenharia
-- MS Project
-- Primavera P6
 - Excel Avançado
 - Power Query
 - Power BI
-- Curva S
 - Análise físico-financeira
-
----
-
-## 🧩 Projetos
-
-### 🔹 Sistema Web de Conversão Físico-Financeira
-
-- Upload de cronograma
-- Conversão automática para %
-- Integração com Matriz EAP
-- Projeção financeira automatizada
-- Tratamento de horas
-- Processamento 100% no navegador
+- EAP e medição (básico)
+- Programação e acompanhamento (básico)
+- Cronograma (MS Project e primavera P6 Básicos)
 
 ---
 
@@ -98,3 +85,5 @@ Integrar Engenharia e Tecnologia para:
 ---
 
 > Engenharia + Dados + Automação = Controle real.
+
+## 📫 Contato Você pode me encontrar aqui no GitHub ou conectar-se via LinkedIn. <br> <div> <a href="https://www.instagram.com/pedro_andrade_se/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href ="mailto:pedrofreitasdeandrade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/pedro-andrade-098a1b180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>+
