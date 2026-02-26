@@ -1,100 +1,100 @@
 # 👋 Olá, Mundo! Eu sou Pedro Andrade
 
-🎯 Engenheiro de Software com foco em Planejamento, Controle e Sistemas aplicados à Engenharia  
-💻 Desenvolvedor de ferramentas para automação de processos técnicos  
-📊 Especialista em estruturação de dados  
+🎯 Engenheiro de Software focado em Planejamento & Controle de Projetos  
+💻 Desenvolvedor de ferramentas para Engenharia  
+📊 Especialista em estruturação de dados e automação de processos  
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 Sobre
 
-Sou profissional da área de Engenharia com forte atuação em:
+Engenheiro atuando na interseção entre **Engenharia, Dados e Tecnologia**.
 
-- Planejamento e controle de obras
-- Estruturação de EAP
-- Conversão físico-financeira
-- Análise de cronogramas
-- Automação de planilhas e processos
-- Desenvolvimento de ferramentas web para engenharia
+Transformo processos manuais e complexos em sistemas automatizados, confiáveis e escaláveis.
 
-Tenho foco em transformar processos manuais e complexos em sistemas automatizados, confiáveis e escaláveis.
+Foco principal:
+
+- Planejamento e controle de obras  
+- Estruturação de EAP  
+- Conversão físico-financeira  
+- Automação de planilhas  
+- Modelagem de dados aplicada a projetos  
+- Desenvolvimento de sistemas web técnicos  
 
 ---
 
-## 🛠 Tecnologias & Ferramentas
+## 🧠 Gestão de Ferramentas Computacionais
+
+Especialização em estruturação e governança de ferramentas digitais para projetos.
+
+### 🔧 Arquitetura & Padronização
+- Integração Cronograma ↔ Orçamento ↔ Controle físico  
+- Padronização de templates  
+- Governança de dados  
+- Controle de versões  
+- Estruturação de bases técnicas  
+
+### 🔄 Automação & Integração
+- Excel ↔ MS Project ↔ Primavera ↔ Sistemas Web  
+- Consolidação automática de bases  
+- Validação de inconsistências  
+- Geração automática de relatórios  
+- Processamento client-side  
+
+### 📊 Engenharia de Dados aplicada a Projetos
+- KPIs personalizados  
+- Curva S automatizada  
+- Forecast físico-financeiro  
+- Análise de desvios  
+- Dashboards integrados  
+
+---
+
+## 🛠 Stack Técnica
 
 ### 💻 Desenvolvimento
 - JavaScript (Vanilla)
-- HTML5
-- CSS3
+- HTML5 / CSS3
 - Bootstrap
-- SheetJS (Excel parsing)
-- Python + bibliotecas
-- Git
-- GitHub
-- GitHub Pages
+- Python
 - Node.js (básico)
 - Supabase
 - APIs REST
+- Git / GitHub
 
----
-
-### 📊 Engenharia & Planejamento
+### 📊 Engenharia
 - MS Project
 - Primavera P6
 - Excel Avançado
 - Power Query
 - Power BI
-- Estrutura Analítica de Projeto (EAP)
 - Curva S
 - Análise físico-financeira
-- Orçamentação
-- Controle de produtividade
 
 ---
 
-### 🗂 Gestão & Produtividade
-- Metodologias Ágeis (Scrum / Kanban)
-- Gestão de contratos
-- Controle documental
-- Análise de riscos
-- Indicadores de desempenho (KPIs)
+## 🧩 Projetos
+
+### 🔹 Sistema Web de Conversão Físico-Financeira
+
+- Upload de cronograma
+- Conversão automática para %
+- Integração com Matriz EAP
+- Projeção financeira automatizada
+- Tratamento de horas
+- Processamento 100% no navegador
 
 ---
 
-Sistema web para:
-
-- Upload de cronograma físico
-- Conversão automática para percentual
-- Correspondência com Matriz EAP
-- Geração de projeção financeira
-- Tratamento automático de horas
-- Macros
-
-Processamento 100% client-side (no navegador).
-
----
-
-## 📈 Objetivo Profissional
+## 📈 Objetivo
 
 Integrar Engenharia e Tecnologia para:
 
-- Reduzir erros operacionais
-- Automatizar análises técnicas
-- Criar sistemas internos de apoio à decisão
-- Elevar o nível de controle financeiro em projetos
+- Reduzir erros operacionais  
+- Automatizar análises técnicas  
+- Criar sistemas internos de apoio à decisão  
+- Elevar o nível de controle financeiro em projetos  
 
 ---
 
 > Engenharia + Dados + Automação = Controle real.
-
-## 📫 Contato
-
-Você pode me encontrar aqui no GitHub ou conectar-se via LinkedIn.
-
-<br>   
-<div> 
-    <a href="https://www.instagram.com/pedro_andrade_se/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href ="mailto:pedrofreitasdeandrade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-andrade-098a1b180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
