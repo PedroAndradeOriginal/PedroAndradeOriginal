@@ -86,4 +86,22 @@ Integrar Engenharia e Tecnologia para:
 
 > Engenharia + Dados + Automação = Controle real.
 
-## 📫 Contato Você pode me encontrar aqui no GitHub ou conectar-se via LinkedIn. <br> <div> <a href="https://www.instagram.com/pedro_andrade_se/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href ="mailto:pedrofreitasdeandrade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/pedro-andrade-098a1b180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>+
+## 📫 Contato
+
+Você pode me encontrar aqui no GitHub ou conectar-se via LinkedIn.
+
+<br>
+
+<div align="left">
+  <a href="https://www.instagram.com/pedro_andrade_se/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  
+  <a href="mailto:pedrofreitasdeandrade@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/pedro-andrade-098a1b180/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
